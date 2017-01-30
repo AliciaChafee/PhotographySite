@@ -1,4 +1,6 @@
 # PhotographySite
+http://www.photography.aliciachafee.com/
+
 This is a practice portfolio project using JQuery to make an image highlight
 
 Static HTML/CSS/JQuery
